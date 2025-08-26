@@ -45,8 +45,10 @@ elif upper == "L":
         print("Great! Your weight is within a healthy range. Keep it up!")
 
 ```
-#### 📝 *I'll soon upload the jupyter notebook file after I play around with my code some more and add additional features to it.*
+#### I'll soon upload the jupyter notebook file after I play around with my code some more and add additional features to it.
 
 ---
 
 #### 💪 *“Stronger today than yesterday.”*
+
+---
