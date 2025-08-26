@@ -1,8 +1,21 @@
-# Practice-Python-w-Me (Weight Unit Calculator)
-### As an engineering student, I love going to the gym to stay healthy and fit while balancing my studies. So, I thought of creating a program about it, to practice and study Python at the same time! This program helps me quickly convert weight between kilograms and pounds and gives me a simple health check.
+# 🏋️ Practice-Python-w-Me (Weight Unit Calculator)
 
-#### *Note: This is for my personal use, and the numbers used (like the ideal weight) are based on my own chosen limits for what I consider my max “bad weight (BMI).”*
+### 👨‍🎓 As an engineering student, I love going to the gym to stay healthy and fit while balancing my studies.  
+### 💡 So, I thought of creating a program about it — to practice and study Python at the same time!  
+### ⚖️ This program helps me quickly convert weight between kilograms and pounds and gives me a simple health check.
 
+#### 📝 *Note: This is for my personal use, and the numbers used (like the ideal weight) are based on my own chosen limits for what I consider my max “bad weight (BMI).”*
+
+---
+
+## 🚀 Features
+- Convert **Kilograms ↔ Pounds** easily  
+- Get a **simple health check** based on my personal weight limits  
+- Practice project to improve my **Python coding skills**  
+
+---
+
+## 💻 Code
 ```python
 weight = float(input("Enter your weight: "))
 unit = input("Input K for kilograms or L for pounds: ")
