@@ -3,6 +3,7 @@
 
 #### *Note: This is for my personal use, and the numbers used (like the ideal weight) are based on my own chosen limits for what I consider my max “bad weight (BMI).”*
 
+```python
 weight = float(input("Enter your weight: "))
 unit = input("Input K for kilograms or L for pounds: ")
 upper = unit.upper()
