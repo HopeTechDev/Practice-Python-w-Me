@@ -6,7 +6,7 @@
 #### 💡 So, I thought of creating a program about it — to practice and study Python at the same time!  
 #### ⚖️ This program helps me quickly convert weight between kilograms and pounds and gives me a simple health check.
 
-#### 📝 *Note: This is for my personal use, and the numbers used (like the ideal weight) are based on my own chosen limits for what I consider my max “bad weight (BMI).”*
+#### 📝 *Note: This is for my personal use, and the numbers used (like the ideal weight) are based on my own chosen limits for what I consider my max “bad weight" (according to my BMI).*
 
 ---
 
@@ -43,3 +43,10 @@ elif upper == "L":
         print("Your weight is above the healthy range. Consider exercising and maintaining a balanced diet.")
     elif result_2 < 76:
         print("Great! Your weight is within a healthy range. Keep it up!")
+
+```
+#### 📝 *I'll soon upload the jupyter notebook file after I play around with my code some more and add additional features to it.*
+
+---
+
+#### 💪 *“Stronger today than yesterday.”*
